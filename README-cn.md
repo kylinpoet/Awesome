@@ -266,6 +266,7 @@
 - [HandBrake](http://handbrake.fr/) - 一个拥有良好界面的高性能视频编码和转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [Honeycam](http://www.zdfans.com/6986.html) - 专业的GIF动画录制和编辑软件，最佳高品质GIF图像创建和编辑程序，提供多种编辑功能和效果，包含图像文本水印及多种滤镜效果等等，支持 WebP / WebM 格式，强大好用GIF录制必备工具。
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。 [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
