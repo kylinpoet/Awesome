@@ -168,7 +168,7 @@
 - [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有paint.net的生活？ ![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
-
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases) - 小巧绿色的Gif录制软件
 ### 文本编辑器
 
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
